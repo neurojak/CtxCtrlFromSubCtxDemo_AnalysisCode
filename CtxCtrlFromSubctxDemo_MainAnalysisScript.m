@@ -9,7 +9,7 @@
 % are included here for clarity although  never called, as well as many functions for exploratory 
 % data analyses
 %
-% this script loads a MAT file (which can be 10s of GB, so needs a decent amount of RAM >60GB), to illustrates
+% this script loads a MAT file (which can be 10s of GB, so needs a decent amount of RAM >60GB), to illustrate
 % the analyses methods used
 
 %% program control:
